@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myChart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-23T12:49:49.220337+02:00"
+    description: An Erlang chart for Kubernetes
+    digest: ce78c1a652450bb1c6f46e845edee52b2844fa274a2b7bef1f8a6fa90786f408
+    name: myChart
+    type: application
+    urls:
+    - https://ltamas97.github.io/helm_repo/myChart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-23T12:49:49.216936+02:00"
