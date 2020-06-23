@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  elkubeChart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-23T14:50:09.931839+02:00"
+    description: Helm chart for th ElKube application
+    digest: 3e16715116c6b48ab97eee262efa4f373b1132c8792c9b234ca991fd1f2d5334
+    name: elkubeChart
+    type: application
+    urls:
+    - https://ltamas97.github.io/helm_repo/elkubeRepo/elkubeChart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-23T14:50:09.927682+02:00"
