@@ -3,12 +3,12 @@ entries:
   WombatChart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-06-26T13:25:25.100494+02:00"
+    created: "2020-06-26T14:52:05.693705+02:00"
     description: A Helm chart for WombatOAM running inside Kubernetes
-    digest: 63404ec657a3aaba7a63eec2b9d1922a058d801de9e4d6deac2e6d8d914f58e8
+    digest: 576ef8c856361cc3567a69b19698d56a050f111783c721c50b3278125ade78dd
     name: WombatChart
     type: application
     urls:
     - https://ltamas97.github.io/helm_repo/wombatRepo/WombatChart-3.7.0.tgz
     version: 3.7.0
-generated: "2020-06-26T13:25:25.096171+02:00"
+generated: "2020-06-26T14:52:05.689686+02:00"
